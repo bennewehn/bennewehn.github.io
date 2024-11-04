@@ -2,3 +2,14 @@ baseURL: bennewehn.github.io
 languageCode: en-us
 title: Benedikt's Home
 theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: Hi there 👋
+    Content: My homepage.
+
+  socialIcons:
+    - name: "Github"
+      url: "https://www.github.com/bennewehn"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/wehnerbene"
